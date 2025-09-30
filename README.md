@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 API ключ уже настроен в `.env` файле:
 ```
-YOUTUBE_API_KEY=AIzaSyBXRP73lOa4b7dgokX0XYDwjm4ax7opVIw
+YOUTUBE_API_KEY=***************
 ```
 
 ### 3. Запуск веб-приложения
